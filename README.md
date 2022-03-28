@@ -1,0 +1,2 @@
+# dnsc-mint
+Minting Page
